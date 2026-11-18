@@ -1,6 +1,5 @@
-
 <details>
-<summary><strong>📸 VIEW SCREENSHOTS (3) — CLICK TO OPEN</strong></summary>
+<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
 
 <h3>🎵 PulseWave — Android Screenshots</h3>
 
@@ -12,6 +11,12 @@
 
 <p><strong>⚙️ Track Options</strong></p>
 <p><img src="docs/screenshots/track-menu.jpg" width="350" alt="PulseWave Track Options"></p>
+
+<p><strong>💿 Albums Library</strong></p>
+<p><img src="docs/screenshots/albums.jpg" width="350" alt="PulseWave Albums Library"></p>
+
+<p><strong>🎬 Video Player</strong></p>
+<p><img src="docs/screenshots/video-player.jpg" width="350" alt="PulseWave Video Player"></p>
 
 </details>
 
