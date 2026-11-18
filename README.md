@@ -3,9 +3,6 @@
 
 <h3>🎵 PulseWave — Android Screenshots</h3>
 
-<p><strong>🎶 Music Library</strong></p>
-<p><img src="docs/screenshots/library.jpg" width="350" alt="PulseWave Music Library"></p>
-
 <p><strong>▶️ Music Player</strong></p>
 <p><img src="docs/screenshots/player.jpg" width="350" alt="PulseWave Music Player"></p>
 
