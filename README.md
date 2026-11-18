@@ -1,2 +1,2 @@
 # PulseWave
-PulseWave — Mobile Application for Android
+PulseWave — Android music and media player with audio visualization, playlists and video library.
