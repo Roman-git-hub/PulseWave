@@ -1,3 +1,20 @@
+
+<details>
+<summary><strong>📸 VIEW SCREENSHOTS (3) — CLICK TO OPEN</strong></summary>
+
+<h3>🎵 PulseWave — Android Screenshots</h3>
+
+<p><strong>🎶 Music Library</strong></p>
+<p><img src="docs/screenshots/library.jpg" width="350" alt="PulseWave Music Library"></p>
+
+<p><strong>▶️ Music Player</strong></p>
+<p><img src="docs/screenshots/player.jpg" width="350" alt="PulseWave Music Player"></p>
+
+<p><strong>⚙️ Track Options</strong></p>
+<p><img src="docs/screenshots/track-menu.jpg" width="350" alt="PulseWave Track Options"></p>
+
+</details>
+
 # 🎵 PulseWave
 
 **Your music. Your rhythm. Your experience.**
@@ -5,22 +22,6 @@
 PulseWave is an Android music and media player designed for browsing, organizing and enjoying your local media library.
 
 Featuring a modern dark interface with vibrant neon accents, responsive playback controls and audio visualization, PulseWave brings music and media together in one application.
-
----
-
-## 📸 Screenshots
-
-\<details> \<summary>\<strong>📸 VIEW SCREENSHOTS (3) — CLICK TO OPEN\</strong>\</summary>
-
-\<h3>🎵 PulseWave — Android Screenshots\</h3>
-
-\<p>\<strong>🎶 Music Library\</strong>\</p> \<p>\<img src="docs/screenshots/library.jpg" width="350" alt="PulseWave Music Library">\</p>
-
-\<p>\<strong>▶️ Music Player\</strong>\</p> \<p>\<img src="docs/screenshots/player.jpg" width="350" alt="PulseWave Music Player">\</p>
-
-\<p>\<strong>⚙️ Track Options\</strong>\</p> \<p>\<img src="docs/screenshots/track-menu.jpg" width="350" alt="PulseWave Track Options">\</p>
-
-\</details>
 
 ---
 
