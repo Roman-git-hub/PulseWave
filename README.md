@@ -1,5 +1,5 @@
 <details>
-<summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
+<summary><strong>📸 VIEW SCREENSHOTS (4) — CLICK TO OPEN</strong></summary>
 
 <h3>🎵 Pulse Wave — Android Screenshots</h3>
 
