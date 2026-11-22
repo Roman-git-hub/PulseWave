@@ -1,7 +1,7 @@
 <details>
 <summary><strong>📸 VIEW SCREENSHOTS (5) — CLICK TO OPEN</strong></summary>
 
-<h3>🎵 PulseWave — Android Screenshots</h3>
+<h3>🎵 Pulse Wave — Android Screenshots</h3>
 
 <p><strong>▶️ Music Player</strong></p>
 <p><img src="docs/screenshots/player.jpg" width="350" alt="PulseWave Music Player"></p>
@@ -17,7 +17,7 @@
 
 </details>
 
-# 🎵 PulseWave
+# 🎵 Pulse Wave
 
 **Your music. Your rhythm. Your experience.**
 
