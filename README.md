@@ -63,7 +63,7 @@ Featuring a modern dark interface with vibrant neon accents, responsive playback
 - Compact mini-player for library navigation.
 - Touch-friendly playback controls.
 
-- ### 🌍 Automatic Language Detection & Localization
+### 🌍 Automatic Language Detection & Localization
 
 - Automatically detects the device's system language.
 - Adapts the application interface to the detected language when a corresponding localization is available.
