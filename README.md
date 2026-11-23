@@ -63,6 +63,13 @@ Featuring a modern dark interface with vibrant neon accents, responsive playback
 - Compact mini-player for library navigation.
 - Touch-friendly playback controls.
 
+- ### 🌍 Automatic Language Detection & Localization
+
+- Automatically detects the device's system language.
+- Adapts the application interface to the detected language when a corresponding localization is available.
+- Provides automatic fallback to the default language when necessary.
+- No manual language configuration required.
+
 ---
 
 ## 📱 Android
